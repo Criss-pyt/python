@@ -19,3 +19,8 @@ en varias lineas
 
 # consultar el tipio de dato 
 print(type("Hola Python")) # Tipo 'str'
+print(type(5)) # tipo 'int'
+print(type(1.5)) # tipo 'float'
+print(type(3+1j)) # tipo 'complex'
+print(type(True)) # 'boll'
+
