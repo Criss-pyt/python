@@ -3,6 +3,8 @@
 print ("Hola Python")
 print ('Hola Python')
 
+print(type("Hola Python"))
+
 """
 Este es un
 comentario 
@@ -14,3 +16,6 @@ Este tambien es un
 comentario 
 en varias lineas 
 '''
+
+# consultar el tipio de dato 
+print(type("Hola Python")) # Tipo 'str'
