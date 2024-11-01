@@ -1,5 +1,8 @@
 # Variables 
 
+from operator import le 
+
+
 my_string_variable= "My string variable"
 print(my_string_variable)
 
@@ -15,3 +18,6 @@ print(my_bool_variable)
 
 # Concatenacion de variables en un print
 print(my_string_variable, str(my_int_variable), my_bool_variable)
+
+# Algunas funciones de el sistema 
+print(len(my_string_variable))
