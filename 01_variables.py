@@ -27,8 +27,8 @@ print("Me llamo:", name, surname, ". Mi edad es:" , age, ". Y mi alias es:", ali
 
 #Imputs
 
-first_name = imput ("What is your name: ")
-age = imput ("How old are you? ")
+name = input ("¿Cual es tu nombre?:")
+age = input ("¿Cuantos años tienes?")
 
-print(first_name)
+print(name)
 print(age)
