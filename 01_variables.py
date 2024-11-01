@@ -21,6 +21,14 @@ print("Este es el valor de:",my_bool_variable)
 print(len(my_string_variable))
 # len = contar 
 
-# Variables en una sola linea 
+# Variables en una sola linea ¡Cuidado con abusar de esta sintaxis!
 name, surname, alias, age = "Brais", "Moure", "MoureDev", 35
 print("Me llamo:", name, surname, ". Mi edad es:" , age, ". Y mi alias es:", alias )
+
+#Imputs
+
+first_name = imput ("What is your name: ")
+age = imput ("How old are you? ")
+
+print(first_name)
+print(age)
