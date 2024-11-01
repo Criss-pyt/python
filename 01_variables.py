@@ -25,10 +25,21 @@ print(len(my_string_variable))
 name, surname, alias, age = "Brais", "Moure", "MoureDev", 35
 print("Me llamo:", name, surname, ". Mi edad es:" , age, ". Y mi alias es:", alias )
 
-#Imputs
-
-name = input ("¿Cual es tu nombre?:")
-age = input ("¿Cuantos años tienes?")
-
+#Inputs
+'''
+name = input ("¿Cual es tu nombre? ")
+age = input ("¿Cuantos años tienes? ")
 print(name)
 print(age)
+'''
+
+# Cambiamos su tipo 
+name = 35
+age = "Brais"
+print(name)
+print(age)
+
+# Forzamos el tipo 
+address: str = "Mi direccion"
+address = 32 
+print(address)
