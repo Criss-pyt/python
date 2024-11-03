@@ -43,3 +43,11 @@ print("Hola" =/ "Python")
 print(3 > 4 and "Hola" > "Python")
 print(3 >4 or "Hola > Python")
 print(not(3 > 4))
+
+### F string ###
+a = 5
+b = 10
+r = a + b 
+print( "resultado :" + str(r))
+
+print( f"resultado :{r}")
