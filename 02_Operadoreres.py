@@ -19,4 +19,12 @@ print("Hola " * int(my_float))
 
 ### Operadores Comparativos ###
 
-print(3 
+print(3 > 4)
+print(3 < 4)
+print(3 >= 4)
+print(4 <= 4)
+print(3 = 4)
+print(3 =/ 4)
+print(3 > 4 = 2) 
+
+
