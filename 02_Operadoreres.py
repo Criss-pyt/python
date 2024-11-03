@@ -17,6 +17,25 @@ print("Hola " * (2 ** 3))
 my_float = 2.5 * 2
 print("Hola " * int(my_float))
 
+###Orden de operadores matematicos###
+'''
+print(2 ** 3) + (3 - 7) / (1 // 4))
+       8          -4        4
+             8 + -4        4/4            
+                             =1
+
+print(2 ** 3 + 3 - 7 / 1 // 4)
+         8          7  
+                       1
+             11
+                 10
+print( (2 ** 3) + 3 - ((7 / 1) // 4))
+                 print(2 ** 3 + 3 - 7 / 1 // 4)
+'''
+#print(2 ** 3 + 3 - 7 / 1 // 4)
+
+print( (2 ** 3) + 3 - ((7 / 1) // 4))
+
 ### Operadores Comparativos ###
 
 '''
@@ -51,3 +70,5 @@ r = a + b
 print( "resultado :" + str(r))
 
 print( f"resultado :{r}")
+
+
