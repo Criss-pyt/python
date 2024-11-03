@@ -4,7 +4,7 @@ print(3 + 4)
 print(3 - 4)
 print(3 * 4)
 print(3 / 4)
-print(10 % 3)
+print(10 % 3) # Modulo = solo deja el numero restante de la division en las veces que puede tener el numero grande o principal 
 print(10 // 3)
 print( 2 ** 3)
 print(2 ** 3 + 3 - 7 / 1 // 4)
