@@ -38,7 +38,7 @@ print("Hola" = "Hola")
 print("Hola" =/ "Python")
 '''
 
-#Operadores Logicos 
+###Operadores Logicos### 
 
 print(3 > 4 and "Hola" > "Python")
 print(3 >4 or "Hola > Python")
