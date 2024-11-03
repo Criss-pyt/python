@@ -5,7 +5,7 @@ print(3 - 4)
 print(3 * 4)
 print(3 / 4)
 print(10 % 3) # Modulo = solo deja el numero restante de la division en las veces que puede tener el numero grande o principal 
-print(10 // 3)
+print(10 // 3) # Division de numero entero (Operador de Division entera) solo muestra las veces que cabe dentro de ek numero que se divide 
 print( 2 ** 3)
 print(2 ** 3 + 3 - 7 / 1 // 4)
 
