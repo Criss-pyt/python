@@ -24,7 +24,7 @@ print(triples_comillas_simples)
 
 
 #Int
-print("Repaso tipo de datos Stringg")
+print("Repaso tipo de datos Enteros")
 
 print()
 valor_positivo = 100
