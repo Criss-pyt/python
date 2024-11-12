@@ -24,3 +24,22 @@ valor2= valor2 + 100
 print(valor2)
 
 print(id(valor2))
+
+print()
+print()
+print()
+print()
+
+#Para saber el tipo de valor asignado se usa type
+
+valor = "Criss"
+print(type(valor))
+
+valor = 10
+print(type(valor))
+
+valor = 3.6
+print(type(valor))
+
+valor = True
+print(type(valor))
