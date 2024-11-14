@@ -10,12 +10,9 @@ print(segundo_valor)
 '''
 operacion_total =(primer_valor) (valor_de_operacion) (segundo_valor)
 print(operacion_total)
-'''
 
-'''
 print( "resultado :" + (primer_valor))
-'''
-'''
+
 print( f"resultado : {primer_valor}  {valor_de_operacion}  {segundo_valor}") 
 '''
 print()
